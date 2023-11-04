@@ -21,7 +21,7 @@ I developed a dynamic and real-time social media platform using Next.js and Supa
 Developed and enhanced an e-commerce platform catering to tech products such as phones, laptops, and electronics. Implemented features like product catalog, user accounts, secure payment processing, and order tracking. Continuously monitored site performance, resolved technical issues promptly, and conducted regular updates to enhance functionality and security. Contributed to a successful digital storefront that effectively showcased tech products and drove sales.
 
 ## EDUCATION
-- Istanbul Aydin University (Start Date - End Date)
+- Istanbul Aydin University (2022 - 2026)
   Bachelors degree student in software development
 
 ## TECHNICAL SKILLS
