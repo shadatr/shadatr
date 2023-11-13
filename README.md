@@ -2,7 +2,7 @@
 
 🌍 Turkey, Istanbul
 📧 shadadaab@gmail.com
-🌐 [Twitter Account](https://twitter.com/itsshdab)
+
 
 ## ABOUT
 I am an experienced developer with a strong background in JavaScript, TypeScript, React.js, Node.js, CSS, Tailwind CSS, PostgreSQL, Supabase, and Next.js. My skills extend to designing and implementing dynamic web applications. I’m dedicated to delivering high-quality, user-friendly solutions that combine both aesthetics and functionality. My experience and technical proficiency enable me to tackle challenging projects, collaborate effectively with cross-functional teams, and contribute to the success of web development initiatives.
