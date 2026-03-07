@@ -3,4 +3,4 @@
 🌍 Turkey, Istanbul
 📧 shadadaab@gmail.com
 
-🔗 [Portfolio Website](https://portfolio-three-orpin-87.vercel.app/)
+🔗 [Portfolio Website](https://shadadaab.com/)
